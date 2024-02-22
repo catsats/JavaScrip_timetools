@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "tea例子",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catsats/JavaScrip_timetools"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
